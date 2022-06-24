@@ -1,5 +1,11 @@
 # Tools for SC Auditing
 ### Static Analysis
+#### VULSCan
+https://github.com/loricallum/vulnerability-scanner
+#### SmartBugs
+https://github.com/smartbugs/smartbugs
+#### SVChecker
+https://github.com/yesmola/SVChecker
 #### Manticore
 https://github.com/trailofbits/manticore
 #### Mythril
